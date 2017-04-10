@@ -1,0 +1,16 @@
+{
+  "name": "simplevideochat",
+  "version": "1.0.0",
+  "description": "A simple Audio/Video Chat Web Application implemented by using WebRTC and WebSockets for signaling purposes.",
+  "main": "modules.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
